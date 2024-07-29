@@ -1,0 +1,1 @@
+The SQL project for a car workshop aims to create a relational database to manage all the operations and relevant information of the workshop. The objective is to organize and facilitate access to data about customers, vehicles, services, parts, and employees, improving efficiency and accuracy in the workshop's daily operations.
